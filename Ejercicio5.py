@@ -16,7 +16,7 @@ superheroes = [
     {"name": "Hela", "is_villain": True},
 ]
 
-# Árbol principal
+
 arbol = BinaryTree()
 
 for s in superheroes:
